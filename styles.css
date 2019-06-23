@@ -1,0 +1,7 @@
+body{
+  width: 50%;
+  margin: 0 auto;
+  max-width: 500px;
+  background-color: aliceblue;
+  color: black;
+}
